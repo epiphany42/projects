@@ -1,15 +1,12 @@
 # Pricing Elasticity Analysis (WIP)
 
 ## Overview
-An in-progress Excel analysis exploring price vs quantity sold using pivot tables.
-
-## Current Insights
-- Pivot tables highlight how quantity sold changes with price levels
-- Early evidence suggests demand is price sensitive in some periods
+An in-progress Excel analysis investigating seasonality in multi-sector retail pricing & sales.
 
 ## Next Steps
-- Finalise lagged average quantity
-- Refine elasticity calculation
+- Look at seasonality by product, quantity, and price
+- Uncover insights and link them to business decisions
 
 ## Status
 Work in progress
+
