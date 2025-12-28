@@ -14,9 +14,10 @@ An Excel and Power BI analysis investigating seasonality in multi-sector retail 
 - Computers and accessories is slightly elastic, while health and beauty and watches and gifts are more inelastic.
 
 ## Suggestions
-- Better marketing strategies should be in place to help increase sales in the early months of the year for popular product categories. It is possible to raise prices for health & beauty products, as well as watches and gifts, as they are less elastic products. Offer more discounts for garden tools products as it is a strongly elastic products and it may increase the volume of sales.
+- Better marketing strategies should be in place to help increase sales in the early months of the year for popular product categories. It is possible to raise prices for health & beauty products, as well as watches and gifts, as they are less elastic products. Offer more discounts for garden tools products as it is a strongly elastic category and it may increase the volume of sales.
 
 ## Note:
 Monthly analysis was only conducted from January to August for the clustered column chart, as the dataset only collected data from January 2017 to August 2018.
+
 
 
